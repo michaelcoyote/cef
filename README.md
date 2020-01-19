@@ -1,6 +1,8 @@
 The Chromium Embedded Framework (CEF) is a simple framework for embedding Chromium-based browsers in other applications.
 
 # Quick Links
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fcef.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fcef?ref=badge_shield)
+
 
 * Project Page - https://bitbucket.org/chromiumembedded/cef
 * Tutorial - https://bitbucket.org/chromiumembedded/cef/wiki/Tutorial
@@ -85,3 +87,7 @@ If you would like to contribute source code changes to CEF please follow the bel
 * Follow the style of existing CEF source files. In general CEF uses the [Chromium coding style](http://www.chromium.org/developers/coding-style).
 * Include new or modified unit tests as appropriate to the functionality.
 * Not include unnecessary or unrelated changes.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fcef.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fcef?ref=badge_large)
